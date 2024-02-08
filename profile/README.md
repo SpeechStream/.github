@@ -1,4 +1,4 @@
-![logo](../static/banner-small.png)
+![logo](https://static.andersenlab.com/andersenlab/new-andersensite/logo-social.png)
 
 ### is voice recognition and speech analysis platform
 
