@@ -1,4 +1,4 @@
-![logo](https://github.com/SpeechStream/.github/tree/main/static/banner.png?raw-true)
+![logo](/static/banner-small.png)
 
 ### is voice recognition and speech analysis platform
 
