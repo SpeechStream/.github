@@ -1,4 +1,4 @@
-![logo](/static/banner-small.png)
+![logo](/static/banner.png)
 
 ### is voice recognition and speech analysis platform
 
