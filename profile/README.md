@@ -1,4 +1,4 @@
-<img src="../static/banner.png" alt="">
+<img src="../static/banner-small.png" alt="">
 
 ### is voice recognition and speech analysis platform
 
