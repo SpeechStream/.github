@@ -1,4 +1,4 @@
-![logo](https://static.andersenlab.com/andersenlab/new-andersensite/logo-social.png)
+![logo](https://github.com/SpeechStream/.github/tree/main/static/banner.png?raw-true)
 
 ### is voice recognition and speech analysis platform
 
